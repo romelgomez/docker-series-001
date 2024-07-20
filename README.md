@@ -1,3 +1,3 @@
-# Docker with simple node project
+# Docker with simple node project example
 
-In this project you can se how is the Dockerfile with a simple node project
+In this project you can see how is the Dockerfile with a simple node project
